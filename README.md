@@ -1,4 +1,4 @@
-Hi there I am Lovish Jindal 👋
+Hi there I am Lovish Jindal 👋. 
 Tech enthusiast, having decent proficiency in Java,Full Stack Web Development,C++,Object Oriented Programming(OOP). I am equipped with a right blend of technical and behavioral competencies required in modern digital era with the belief to value creation mindset and coginitive load management capabilities. Strong operations Professionals with a Bachelor of Technology focused in Electronics and Computer Engineering from Thapar Institute of Engineering and Technology.
 
 <!---
